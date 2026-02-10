@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BAN",
+  "base_artist": "櫻坂46",
+  "createdAt": "2026-02-10T07:03:03.404076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "An Gabhar Ban",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/01_An_Gabhar_Ban_Clannad.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "An Gabhar Ban",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/02_An_Gabhar_Ban_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ban the Game",
+      "artist": "Men Without Hats",
+      "has_synced": true,
+      "path": "select/03_Ban_the_Game_Men_Without_Hats.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ray Ban",
+      "artist": "Miss Kittin & The Hacker",
+      "has_synced": true,
+      "path": "select/04_Ray_Ban_Miss_Kittin_&_The_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ban Marriage",
+      "artist": "The Hidden Cameras",
+      "has_synced": false,
+      "path": "select/05_Ban_Marriage_The_Hidden_Cameras.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kadak Ban",
+      "artist": "Emiway Bantai",
+      "has_synced": true,
+      "path": "select/06_Kadak_Ban_Emiway_Bantai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Panchhi Ban Mein",
+      "artist": "Lata Mangeshkar",
+      "has_synced": true,
+      "path": "select/07_Panchhi_Ban_Mein_Lata_Mangeshkar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tera Ban Jaunga (From \"Kabir Singh\")",
+      "artist": "Akhil Sachdeva",
+      "has_synced": true,
+      "path": "select/08_Tera_Ban_Jaunga_(From__Kabir_Singh_)_Akhil_Sachdeva.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tera Ban Jaunga",
+      "artist": "Kumaar, Akhil Sachdeva & Tulsi Kumar",
+      "has_synced": true,
+      "path": "select/09_Tera_Ban_Jaunga_Kumaar,_Akhil_Sachdeva_&_Tulsi_Kumar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ban The Tube Top",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/10_Ban_The_Tube_Top_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "An Gabhar Bán (The White Goat)",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/11_An_Gabhar_Bán_(The_White_Goat)_Clannad.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ban Gaya Buddha Sharabi",
+      "artist": "Kishore Kumar, Manna Dey",
+      "has_synced": false,
+      "path": "select/12_Ban_Gaya_Buddha_Sharabi_Kishore_Kumar,_Manna_Dey.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ban Gaya Buddha Sharabi",
+      "artist": "Kishore Kumar & Manna Dey",
+      "has_synced": false,
+      "path": "select/13_Ban_Gaya_Buddha_Sharabi_Kishore_Kumar_&_Manna_Dey.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Phool Ban Jaunga Shart Yeh Hai",
+      "artist": "Mahendra Kapoor feat. Lata Mangeshkar",
+      "has_synced": true,
+      "path": "select/14_Phool_Ban_Jaunga_Shart_Yeh_Hai_Mahendra_Kapoor_feat._Lata_Mangeshkar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Phool Ban Jaunga Shart Yeh Hai",
+      "artist": "Mahendra Kapoor & Lata Mangeshkar",
+      "has_synced": true,
+      "path": "select/15_Phool_Ban_Jaunga_Shart_Yeh_Hai_Mahendra_Kapoor_&_Lata_Mangeshkar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Molly Bán (Bawn)",
+      "artist": "The Chieftains",
+      "has_synced": true,
+      "path": "select/16_Molly_Bán_(Bawn)_The_Chieftains.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Molly Bán (Bawn)",
+      "artist": "Alison Krauss feat. The Chieftains",
+      "has_synced": false,
+      "path": "select/17_Molly_Bán_(Bawn)_Alison_Krauss_feat._The_Chieftains.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAN",
+      "artist": "櫻坂46",
+      "has_synced": false,
+      "path": "select/pl_01_BAN_櫻坂46.txt"
+    }
+  ]
+}
